@@ -1,11 +1,42 @@
 # sample-jupyter-notebook-statistics
-This is a Jupyter Notebook collection series about Descriptive Statistics, Probability Distributions and Statistical Hypothesis Tests using Python, Pandas, NumPy and Matplotlib, along with Anaconda managed environments
+This is a Jupyter Notebook series collection about Descriptive Statistics, Probability Distributions and Statistical Hypothesis Tests using Python, Pandas, NumPy and Matplotlib, along with Anaconda managed environments
 
 © 2024 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
 [**Description of this repository**]<br>
-This is a Jupyter Notebook collection series about Descriptive Statistics, Probability Distributions and Statistical Hypothesis Tests using Python, Pandas, NumPy and Matplotlib, along with Anaconda managed environments.
+This is a Jupyter Notebook series collection about Descriptive Statistics, Probability Distributions and Statistical Hypothesis Tests using Python, Pandas, NumPy and Matplotlib, along with Anaconda managed environments.
+
+[**Content**]<br>
+GitHub jupyter notebook | Colab dynamic code import and run:
+
+1 - Frequency Table<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/frequency-table.ipynb](https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/frequency-table.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/frequency-table(colab-version).ipynb](https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/frequency-table(colab-version).ipynb) <br>
+
+2 - Position, Dispersion and Shape Measures<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/position-dispersion-shape.ipynb](https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/position-dispersion-shape.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/position-dispersion-shape(colab-version).ipynb](https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/position-dispersion-shape(colab-version).ipynb) <br>
+
+3 - Chi-squared<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/chi-square.ipynb](https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/chi-square.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/chi-square(colab-version).ipynb](https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/chi-square(colab-version).ipynb) <br>
+
+4 - Covariance and Pearson Correlation Coefficient<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/covariance-pearson-correlation-coefficient.ipynb](https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/covariance-pearson-correlation-coefficient.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/covariance-pearson-correlation-coefficient(colab-version).ipynb](https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/covariance-pearson-correlation-coefficient(colab-version).ipynb) <br>
+
+5 - Probability Distributions Discrete<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/prob-distributions-discrete.ipynb](https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/prob-distributions-discrete.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/prob-distributions-discrete(colab-version).ipynb](https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/prob-distributions-discrete(colab-version).ipynb) <br>
+
+6 - Probability Distributions Continuous<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/prob-distributions-continuous.ipynb](https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/prob-distributions-continuous.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/prob-distributions-continuous(colab-version).ipynb](https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/prob-distributions-continuous(colab-version).ipynb) <br>
+
+7 - Hypothesis Test Statistics<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/hypothesis-test-statistics.ipynb](https://github.com/danielpm1982/sample-jupyter-notebook-statistics/blob/master/hypothesis-test-statistics.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/hypothesis-test-statistics(colab-version).ipynb](https://colab.research.google.com/github/danielpm1982/sample-jupyter-notebook-statistics/blob/master/hypothesis-test-statistics(colab-version).ipynb) <br>
 
 [**Source Code and Run**]<br>
 Source code available at github.com, through the following link:<br>
@@ -13,8 +44,12 @@ Source code available at github.com, through the following link:<br>
 The source code includes the Jupyter Notebooks .ipynb files themselves (one for each example), static resources - as images, .csv data files, as well as the environment.yml file, 
 which can be used to generate an Anaconda environment for running this project locally (don't forget to customize the env paths to your own filesystem and OS when creating the environment).<br>
 You can also run this Jupiter Notebook project remotely at [https://colab.research.google.com/notebook](https://colab.research.google.com/notebook), importing the content directly 
-from this github repository to your Google Drive (using Colab platform), without having to create any Anaconda environment locally. In this case, use the .ipynb colab version instead 
-(the paths were updated for accessing remote resources).
+from this github repository to a remote machine instance (using Colab platform), without having to create any Anaconda environment locally. In this case, use the .ipynb colab version instead, for each notebook you import
+(at this version, the links point out to the github remote resources, instead of to local files).
+
+[**Support**]<br>
+If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
+https://github.com/danielpm1982/sample-jupyter-notebook-statistics/issues
 
 [**Copyright© License**]<br>
 © 2024 Daniel Pinheiro Maia All Rights Reserved<br>
