@@ -1,7 +1,7 @@
 # sample-jupyter-notebook-statistics
 This is a Jupyter Notebook series collection about Descriptive Statistics, Probability Distributions and Statistical Hypothesis Tests using Python, Pandas, NumPy and Matplotlib, along with Anaconda managed environments
 
-© 2024 Daniel Pinheiro Maia All Rights Reserved<br>
+© 2025 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
 [**Description of this repository**]<br>
